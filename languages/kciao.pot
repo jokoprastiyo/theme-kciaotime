@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kciaotime 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jan 08 2015 12:44:45 GMT+0715\n"
+"POT-Revision-Date: Thu Feb 19 2015 22:34:28 GMT+0715\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kciaonews <adipratama2905@gmail.com>\n"
+"Language-Team: Anaklado <adipratama2905@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/\n"
+
+#: ../page-template-archives.php:41
+msgid "The Last 20 Posts"
+msgstr ""
+
+#: ../page-template-archives.php:52 ../page-template-sitemap.php:49 ../options.
+#: php:43 ../admin/widgets/ultimate-post.php:220 ../admin/widgets/ultimate-post.
+#: php:536
+msgid "Categories"
+msgstr ""
+
+#: ../page-template-archives.php:59
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Blog Archives"
+msgstr ""
+
+#: ../post-page.php:18 ../functions.php:266 ../post-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:21
+msgid "Search Results for:"
+msgstr ""
+
+#: ../search.php:56
+#, php-format
+msgid ""
+"Sorry, but nothing matched your search criteria: %s. Please try again with "
+"some different keywords."
+msgstr ""
+
+#: ../author.php:21
+#, php-format
+msgid "Author Archives: <span>%s</span>"
+msgstr ""
+
+#: ../functions.php:52
+msgid "Menu Primary"
+msgstr ""
+
+#: ../functions.php:53
+msgid "Menu Top"
+msgstr ""
+
+#: ../functions.php:188
+msgid "Category"
+msgstr ""
+
+#: ../functions.php:189
+msgid "Tag"
+msgstr ""
+
+#: ../functions.php:190 ../options.php:45
+msgid "Author"
+msgstr ""
+
+#: ../functions.php:191 ../page-template-sitemap.php:56 ../options.php:41
+msgid "Archives"
+msgstr ""
+
+#: ../functions.php:197 ../functions.php:201
+msgid "Page "
+msgstr ""
+
+#: ../functions.php:357
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:365
+msgid "Top Widget"
+msgstr ""
+
+#: ../functions.php:373
+msgid "Footer Left"
+msgstr ""
+
+#: ../functions.php:381
+msgid "Footer Middle"
+msgstr ""
+
+#: ../functions.php:389
+msgid "Footer Right"
+msgstr ""
+
+#: ../functions.php:417
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:547
+msgid "Support"
+msgstr ""
+
+#: ../functions.php:549
+msgid ""
+"The best way to contact me with <b>support questions</b> and <b>bug "
+"reports</b> is via the"
+msgstr ""
+
+#: ../functions.php:549
+msgid "WordPress support forums"
+msgstr ""
+
+#: ../functions.php:550
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr ""
+
+#: ../functions.php:552
+msgid "Rate Kciaotime at WordPress.org"
+msgstr ""
+
+#: ../post-noresults.php:4
+msgid "No results were found for your request!"
+msgstr ""
+
+#: ../tag.php:21
+#, php-format
+msgid "Tag Archives: <span>%s</span>"
+msgstr ""
+
+#: ../searchform.php:1
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../post.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../post.php:22 ../post-single.php:11
+msgid "No comments"
+msgstr ""
+
+#: ../post.php:22 ../post-single.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: ../post.php:22 ../post-single.php:11
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:9
+#, php-format
+msgid "One Response to %2$s"
+msgstr ""
+
+#: ../comments.php:19
+msgid "<span class=\"fa fa-chevron-left\"></span> Older Comments"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Newer Comments <span class=\"fa fa-chevron-right\"></span>"
+msgstr ""
+
+#: ../navigation.php:9
+msgid "<span class=\"fa fa-chevron-left\"></span> Older posts"
+msgstr ""
+
+#: ../navigation.php:10
+msgid "Newer posts <span class\"fa fa-chevron-right\"></span>"
+msgstr ""
+
+#: ../page-template-sitemap.php:42
+msgid "Pages"
+msgstr ""
+
+#: ../page-template-sitemap.php:64
+msgid "Posts per category"
+msgstr ""
+
+#: ../options.php:31
+msgid "Three column with full width slides"
+msgstr ""
+
+#: ../options.php:32
+msgid "Two column with full width slides"
+msgstr ""
+
+#: ../options.php:33
+msgid "Two column with large slides"
+msgstr ""
+
+#: ../options.php:38 ../lib/walker-menu.php:71
+msgid "Home"
+msgstr ""
+
+#: ../options.php:39
+msgid "Single"
+msgstr ""
+
+#: ../options.php:40
+msgid "Page"
+msgstr ""
+
+#: ../options.php:42 ../admin/widgets/ultimate-post.php:228 ..
+#: /admin/widgets/ultimate-post.php:554
+msgid "Tags"
+msgstr ""
+
+#: ../options.php:44
+msgid "Search Page"
+msgstr ""
+
+#: ../options.php:46
+msgid "404"
+msgstr ""
+
+#: ../options.php:64
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../options.php:65
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../options.php:66
+msgid "No Sidebar"
+msgstr ""
+
+#: ../options.php:104
+msgid "Homepage & Slides"
+msgstr ""
+
+#: ../options.php:109
+msgid "Display type column design and custom slides"
+msgstr ""
+
+#: ../options.php:110
+msgid "Select type column design and custom slides at homepage"
+msgstr ""
+
+#: ../options.php:117
+msgid "Display the slider"
+msgstr ""
+
+#: ../options.php:118
+msgid "Unchecked, if there is no image, to eliminate the blank column in the area"
+msgstr ""
+
+#: ../options.php:124
+msgid "Select page, that you want to display slider"
+msgstr ""
+
+#: ../options.php:125
+msgid "These slider will be display at the page selected"
+msgstr ""
+
+#: ../options.php:132
+msgid "Post Type of Custom Slider"
+msgstr ""
+
+#: ../options.php:133
+msgid ""
+"Input post type just for custom slider, separated by commas if use more than "
+"one of post type. This support post type from plugin installed. Example: ( "
+"default blog: \"post\", \"page\" )"
+msgstr ""
+
+#: ../options.php:139
+msgid "Do You just want to use thumbnail?"
+msgstr ""
+
+#: ../options.php:144
+msgid "Layout Options"
+msgstr ""
+
+#: ../options.php:148
+msgid "Do You want to use custom favicon?"
+msgstr ""
+
+#: ../options.php:154
+msgid "Favicon URL"
+msgstr ""
+
+#: ../options.php:155
+msgid ""
+"If You choose to use custom favicon, input here full URL or upload to the "
+"favicon.ico image"
+msgstr ""
+
+#: ../options.php:161
+msgid "Header Banner"
+msgstr ""
+
+#: ../options.php:162
+msgid ""
+"Input here full URL or upload to the banner image, this display at the top "
+"right on every page"
+msgstr ""
+
+#: ../options.php:168
+msgid "Header Banner Link"
+msgstr ""
+
+#: ../options.php:169
+msgid "Input Full URL Link of image header banner."
+msgstr ""
+
+#: ../options.php:171
+msgid "http://"
+msgstr ""
+
+#: ../options.php:176
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../options.php:181
+msgid "Excerpt length the post in the home"
+msgstr ""
+
+#: ../options.php:186
+msgid "Display text of the read more link"
+msgstr ""
+
+#: ../options.php:187
+msgid "Input text to display of the read more link"
+msgstr ""
+
+#: ../options.php:189
+msgid "Read more &raquo;"
+msgstr ""
+
+#: ../options.php:193
+msgid "Display Footer Widget"
+msgstr ""
+
+#: ../options.php:194
+msgid ""
+"Select the checkbox to display footer widget. In this area there are three "
+"column widgets: Footer Left, Footer Middle, Footer Right."
+msgstr ""
+
+#: ../options.php:200
+msgid "Footer Bottom Tagline"
+msgstr ""
+
+#: ../options.php:205
+msgid "Images Resize"
+msgstr ""
+
+#: ../options.php:209 ../options.php:219 ../options.php:228 ../options.php:237
+msgid "Kciaotime Pro Options!"
+msgstr ""
+
+#: ../options.php:214
+msgid "Tracking Code & CSS"
+msgstr ""
+
+#: ../options.php:224
+msgid "Background Color"
+msgstr ""
+
+#: ../options.php:233
+msgid "Text & Links Color"
+msgstr ""
+
+#: ../404.php:22
+msgid "The page you requested could not be found."
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-media-uploader.php:65 ..
+#: /admin/options-framework/inc/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-media-uploader.php:67 ..
+#: /admin/options-framework/inc/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:91 ..
+#: /admin/options-framework/inc/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:201
+msgid "Do You need more option?"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:202
+msgid "http://generasite.tk/"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:202 ..
+#: /admin/options-framework/inc/class-options-framework-admin.php:202
+msgid "Upgrade to Kciaotime Pro"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:203
+msgid ""
+"https://www.paypal.com/cgi-bin/webscr?cmd=_s-"
+"xclick&hosted_button_id=KDRXNW3Y94KZE"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:203
+msgid "Donate"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:212
+msgid "Save Options"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:213
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:213
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:244
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/options-framework/inc/class-options-framework-admin.php:298
+msgid "Options saved."
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:19
+msgid "Displays icons with linked to RSS / Facebook/ Twitter / Flickr / YouTube"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:25
+msgid "Kciao :: Social icons"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:52
+msgid "Subscribe to RSS feed"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:53
+msgid "Follow me on Facebook"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:54
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:55
+msgid "Follow me on YouTube"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:56
+msgid "Follow me on Flickr"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:87
+msgid "Follow me"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:92 ../admin/widgets/ultimate-post.php:424 ..
+#: /admin/widgets/ultimate-post.php:591
+msgid "Title"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:98
+msgid "URL address of your RSS feed"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:100
+msgid "Enter full feed URL. If you don't want to display this, leave empty."
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:105
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:107
+msgid ""
+"Enter full URL of your Facebook profile or page. If you don't want to "
+"display this, leave empty."
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:111
+msgid "URL address of your Twitter profile page"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:113
+msgid ""
+"Enter full URL of your Twitter profile page. If you don't want to display "
+"this, leave empty."
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:117
+msgid "URL address of your YouTube profile page"
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:119
+msgid ""
+"Enter full URL of your YouTube profile page. If you don't want to display "
+"this, leave empty."
+msgstr ""
+
+#: ../admin/widgets/social-widget.php:124
+msgid ""
+"Enter full URL to your Flickr profile. If you don't want to display this, "
+"leave empty."
+msgstr ""
+
+#: ../admin/widgets/contact-info.php:36
+msgid "Phone:"
+msgstr ""
+
+#: ../admin/widgets/contact-info.php:40
+msgid "Mobile:"
+msgstr ""
+
+#: ../admin/widgets/contact-info.php:44
+msgid "Fax:"
+msgstr ""
+
+#: ../admin/widgets/contact-info.php:48
+msgid "Email:"
+msgstr ""
+
+#: ../admin/widgets/contact-info.php:52
+msgid "Web:"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:36
+msgid "Displays list of posts with an array of options"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:45
+msgid "Kciao :: Ultimate Posts Widget"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:192
+msgid "By"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:197
+msgid "No responses"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:197
+msgid "One response"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:197
+msgid "% responses"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:264
+msgid "No posts found."
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:320
+msgid "Ultimate Posts"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:331
+msgid "Read more &rarr;"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:429
+msgid "Title URL"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:434
+msgid "CSS class"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:439
+msgid "Number of posts"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:445
+msgid "Show title"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:450
+msgid "Show published date"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:454
+msgid "Date format"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:460
+msgid "Show post author"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:465
+msgid "Show comments count"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:470
+msgid "Show excerpt"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:474
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:480
+msgid "Show content"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:486
+msgid "Show read more link"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:501
+msgid "Show thumbnail"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:509
+msgid "full"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:517
+msgid "Show post categories"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:522
+msgid "Show post tags"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:526
+msgid "Show custom fields (comma separated)"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:532
+msgid "Show posts only from current category"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:538 ../admin/widgets/ultimate-post.php:556 .
+#: ./admin/widgets/ultimate-post.php:568
+msgid "&ndash; Show All &ndash;"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:550
+msgid "Show posts only from current tag"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:566
+msgid "Post types"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:579
+msgid "Sticky posts"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:581
+msgid "Show All Posts"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:582
+msgid "Hide Sticky Posts"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:583
+msgid "Show Only Sticky Posts"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:588
+msgid "Order by"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:590
+msgid "Published Date"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:592
+msgid "Comment Count"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:593
+msgid "Random"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:594
+msgid "Custom Field"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:599
+msgid "Custom field"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:604
+msgid "Order"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:606
+msgid "Descending"
+msgstr ""
+
+#: ../admin/widgets/ultimate-post.php:607
+msgid "Ascending"
+msgstr ""
+
+#: ../lib/walker-menu.php:74
+msgid "Add a menu"
+msgstr ""
